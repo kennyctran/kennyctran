@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I'm Kenny, a software engineer based in NYC. 
 
-[![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennyctran)](https://github.com/kennyctran/github-readme-stats)
+[![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennyctran)](https://github.com/anuraghazra/github-readme-stats)
 
