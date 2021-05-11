@@ -39,7 +39,7 @@ I'm Kenny, a software engineer based in NYC, probably currently automating somet
 
 > Deployment
 
-<img src="https://img.shields.io/badge/Tool-AWS-%23EA902E?style=plastic&logo=amazon-aws"> <img src="https://img.shields.io/badge/Tool-Heroku-%23440198?style=plastic&logo=heroku"> <img src="https://img.shields.io/badge/Tool-Docker-%232496EC?style=plastic&logo=docker"> <img src="https://img.shields.io/badge/Tool-Docker%20Hub-%232496EC?style=plastic&logo=docker"> <img src="https://img.shields.io/badge/Tool-Github-%2324292E?style=plastic&logo=github">
+<img src="https://img.shields.io/badge/Service-AWS-%23EA902E?style=plastic&logo=amazon-aws"> <img src="https://img.shields.io/badge/Service-Heroku-%23440198?style=plastic&logo=heroku"> <img src="https://img.shields.io/badge/Tool-Docker-%232496EC?style=plastic&logo=docker"> <img src="https://img.shields.io/badge/Tool-Docker%20Hub-%232496EC?style=plastic&logo=docker"> <img src="https://img.shields.io/badge/Tool-Github-%2324292E?style=plastic&logo=github">
 
 > Utilities
 
