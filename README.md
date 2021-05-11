@@ -22,4 +22,5 @@ I'm Kenny, a software engineer based in NYC.
 ---
 🛠 Tools and Technologies (so far):
 --
-<https://img.shields.io/badge/Language-Javascript-2E5EAA?logo=JavaScript>
+
+![alt text](data:image/svg+xml,<https://img.shields.io/badge/Language-Javascript-2E5EAA?logo=JavaScript> "javascript")
