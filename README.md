@@ -20,3 +20,6 @@ I'm Kenny, a software engineer based in NYC.
 [![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennyctran)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+🛠 Tools and Technologies (so far):
+--
+https://img.shields.io/badge/Language-Javascript-2E5EAA?logo=JavaScript
