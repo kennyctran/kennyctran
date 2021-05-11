@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Kenny, a software engineer based in NYC. 
 
-[![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennyctran)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://images.unsplash.com/photo-1593642702909-dec73df255d7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80">
 
 ---
 🛠 Tools and Technologies (so far):
@@ -44,3 +44,6 @@ I'm Kenny, a software engineer based in NYC.
 > Utilities
 
 <img src="https://img.shields.io/badge/Tool-Babel-%23CBB433?style=plastic&logo=Babel"> <img src="https://img.shields.io/badge/Tool-Webpack-%2375AFCC?style=plastic&logo=webpack"> <img src="https://img.shields.io/badge/Version%20Control-Git-%23E84F31?style=plastic&logo=git"> <img src="https://img.shields.io/badge/Tool-Yarn-%232187B6?style=plastic&logo=yarn"> <img src="https://img.shields.io/badge/Tool-npm-%23CB3837?style=plastic&logo=npm"> <img src="https://img.shields.io/badge/Shell-Bash-%2349A124?style=plastic&logo=gnu-bash"> <img src="https://img.shields.io/badge/Editor-VS%20Code-%2320A2EB?style=plastic&logo=visual-studio-code"> <img src="https://img.shields.io/badge/Tool-Trello-%23EDE9FF?style=plastic&logo=trello"> <img src="https://img.shields.io/badge/Tool-Jira-%232484FF?style=plastic&logo=jira"> <img src="https://img.shields.io/badge/Methodology-Agile-%233747D9?style=plastic">
+
+---
+[![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennyctran)](https://github.com/anuraghazra/github-readme-stats)
