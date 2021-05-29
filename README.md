@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kenny, a software engineer based in NYC who likes automating things I should probably leave alone.
+I'm Kenny, a software engineer based in NYC who likes automating things that I should probably leave alone.
 
 <img src="https://images.unsplash.com/photo-1593642702909-dec73df255d7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80">
 
