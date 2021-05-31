@@ -1,49 +1,52 @@
-### Hey, y'all 🤘
+# Hey, y'all! I'm Kenny Tran 👋
 
-<!--
-**kennyctran/kennyctran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/kennyctran%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kennyctran/)](https://www.linkedin.com/in/kennyctran/)
+[![GitHub](https://img.shields.io/badge/kennyctran%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/kennyctran)](https://github.com/kennyctran)
+[![Gmail](https://img.shields.io/badge/kennyctran%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:kenny@kennyctran.com)](mailto:kenny@kennyctran.com)
 
-Here are some ideas to get you started:
+- :office: Employed as a Software Engineering Immersive Resident at [HackReactor](https://www.hackreactor.com/)
+- :round_pushpin: Based in New York, NY
+- :smile: Pronouns: he/him/his
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux%20-%2320232a.svg?&style=flat-square&logo=redux&logoColor=CAB0F4)
+![Next.js](https://img.shields.io/badge/Next.js%20-%2320232a.svg?&style=flat-square&logo=next-dot-js&logoColor=fff)
+![SCSS](https://img.shields.io/badge/SCSS%20-%23C04080.svg?&style=flat-square&logo=sass&logoColor=fff)
+![Material-UI](https://img.shields.io/badge/Material--UI%20-%23239DFF.svg?&style=flat-square&logo=material-ui&logoColor=fff)
 
-I'm Kenny, a software engineer based in NYC who likes automating things that I should probably leave alone.
+![jQuery](https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js%20-%23FF6383.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<img src="https://images.unsplash.com/photo-1593642702909-dec73df255d7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80">
+![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?&style=flat-square&logo=mongoose)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite%20-%23044A64.svg?&style=flat-square&logo=sqlite&logoColor=white)
 
----
-🛠 Tools and Technologies (so far):
---
-> Front-end
+![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha%20-%238D6848.svg?&style=flat-square&logo=mocha&logoColor=white)
+![Enzyme](https://img.shields.io/badge/Enzyme%20-%23FF395B.svg?&style=flat-square&logo=enzyme&logoColor=white)
+![SuperTest](https://img.shields.io/badge/SuperTest%20-important.svg?&style=flat-square)
+![Chai](https://img.shields.io/badge/Chai%20-%23F6ECD4.svg?&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)
 
-<img src="https://img.shields.io/badge/Language-Javascript-%23FCDC00?style=plastic&logo=JavaScript"> <img src="https://img.shields.io/badge/Framework-React-%2361dafb?style=plastic&logo=React"> <img src="https://img.shields.io/badge/Library-Redux-%237249B6?style=plastic&logo=Redux"> <img src="https://img.shields.io/badge/Framework-Next.js-black?style=plastic&logo=next-dot-js"> <img src="https://img.shields.io/badge/Tool-HTML5-%23E54B20?style=plastic&logo=html5"> <img src="https://img.shields.io/badge/Tool-CSS3-%23254BDD?style=plastic&logo=css3"> <img src="https://img.shields.io/badge/Preprocessor-Sass%2FScss-%23C04080?style=plastic&logo=sass"> <img src="https://img.shields.io/badge/Library-jQuery-%230A68AD?style=plastic&logo=jquery"> <img src="https://img.shields.io/badge/Framework-Material--UI-%2300AFFE?style=plastic&logo=material-ui">  <img src="https://img.shields.io/badge/Framework-Bootstrap-%238812FB?style=plastic&logo=bootstrap"> <img src="https://img.shields.io/badge/Library-Chart.js-%23FF6383?style=plastic&logo=chart.js">
---
+![AWS](https://img.shields.io/badge/AWS%20-%23EA902E.svg?&style=flat-square&logo=amazon-aws&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku%20-%23440198.svg?&style=flat-square&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20-%232496EC.svg?&style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel%20-%23F05033.svg?&style=flat-square&logo=vercel&logoColor=white)
 
-> Back-end
-
-<img src="https://img.shields.io/badge/Tool-Node.js-%2373B059?style=plastic&logo=node.js"> <img src="https://img.shields.io/badge/Framework-Express-%23239DFF?style=plastic&logo=Express"> <img src="https://img.shields.io/badge/Database-MongoDB-%2312AA52?style=plastic&logo=mongodb"> <img src="https://img.shields.io/badge/ODM-Mongoose-%23880000?style=plastic"> <img src="https://img.shields.io/badge/Database-MySQL-%23F29210?style=plastic&logo=mysql"> <img src="https://img.shields.io/badge/Database-SQLite-%23044A64?style=plastic&logo=sqlite"> <img src="https://img.shields.io/badge/Tool-Axios-blueviolet?style=plastic"> <img src="https://img.shields.io/badge/Tool-Superagent-%23BC615D?style=plastic"> <img src="https://img.shields.io/badge/Tool-Fetch-%23DDF4FF?style=plastic"> <img src="https://img.shields.io/badge/Library-Underscore-%230270B5?style=plastic"> <img src="https://img.shields.io/badge/Library-Lodash-%233692FF?style=plastic"> <img src="https://img.shields.io/badge/Tool-Node%20Debugger-%2343843D?style=plastic&logo=node.js"> <img src="https://img.shields.io/badge/Tool-Chrome%20Dev%20Tools-%23236CD4?style=plastic&logo=google-chrome">
---
-
-> Testing
-
-<img src="https://img.shields.io/badge/Framework-Jest-%23920E1B?style=plastic&logo=Jest"> <img src="https://img.shields.io/badge/Framework-Mocha-%238D6848?style=plastic&logo=mocha"> <img src="https://img.shields.io/badge/Utility-Enzyme-%23FF395B?style=plastic&logo=Enzyme"> <img src="https://img.shields.io/badge/Utility-Supertest-important?style=plastic"> <img src="https://img.shields.io/badge/Library-Chai-%23F6ECD4?style=plastic"> <img src="https://img.shields.io/badge/Library-Sinon-%2388543B?style=plastic"> <img src="https://img.shields.io/badge/Tool-Postman-%23FF6C37?style=plastic&logo=postman"> <img src="https://img.shields.io/badge/Tool-json--server-%23FFFFFF?style=plastic&logo=json"> <img src="https://img.shields.io/badge/Methodology-TDD-yellow?style=plastic"> <img src="https://img.shields.io/badge/Methodology-BDD-yellow?style=plastic"> 
---
-
-> Deployment
-
-<img src="https://img.shields.io/badge/Service-AWS-%23EA902E?style=plastic&logo=amazon-aws"> <img src="https://img.shields.io/badge/Service-Heroku-%23440198?style=plastic&logo=heroku"> <img src="https://img.shields.io/badge/Tool-Docker-%232496EC?style=plastic&logo=docker"> <img src="https://img.shields.io/badge/Tool-Docker%20Hub-%232496EC?style=plastic&logo=docker"> <img src="https://img.shields.io/badge/Tool-Github-%2324292E?style=plastic&logo=github">
-
-> Utilities
-
-<img src="https://img.shields.io/badge/Tool-Babel-%23CBB433?style=plastic&logo=Babel"> <img src="https://img.shields.io/badge/Tool-Webpack-%2375AFCC?style=plastic&logo=webpack"> <img src="https://img.shields.io/badge/Version%20Control-Git-%23E84F31?style=plastic&logo=git"> <img src="https://img.shields.io/badge/Tool-Yarn-%232187B6?style=plastic&logo=yarn"> <img src="https://img.shields.io/badge/Tool-npm-%23CB3837?style=plastic&logo=npm"> <img src="https://img.shields.io/badge/Shell-Bash-%2349A124?style=plastic&logo=gnu-bash"> <img src="https://img.shields.io/badge/Editor-VS%20Code-%2320A2EB?style=plastic&logo=visual-studio-code"> <img src="https://img.shields.io/badge/Tool-Trello-%23EDE9FF?style=plastic&logo=trello"> <img src="https://img.shields.io/badge/Tool-Jira-%232484FF?style=plastic&logo=jira"> <img src="https://img.shields.io/badge/Methodology-Agile-%233747D9?style=plastic">
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/babel%20-%23CBB433.svg?&style=flat-square&logo=babel&logoColor=black)
+![Yarn](https://img.shields.io/badge/yarn%20-%232187B6.svg?&style=flat-square&logo=yarn&logoColor=black)
+![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
+![Bash](https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
+![Trello](https://img.shields.io/badge/Trello%20-%23EDE9FF.svg?&style=flat-square&logo=trello&logoColor=black)
 
 ---
 [![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennyctran)](https://github.com/anuraghazra/github-readme-stats)
