@@ -4,7 +4,6 @@
 [![GitHub](https://img.shields.io/badge/kennyctran%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/kennyctran)](https://github.com/kennyctran)
 [![Gmail](https://img.shields.io/badge/kennyctran%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:kenny@kennyctran.com)](mailto:kenny@kennyctran.com)
 
-- :office: Employed as a Full-Stack Software Engineer at Rally Health
 - :round_pushpin: Based in New York, NY
 - :smile: Pronouns: he/him/his
 
